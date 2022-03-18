@@ -13,4 +13,6 @@ environment automation
   
   ansible
   
-  
+  Metrics and logging the pipeline
+  using Prometheus + Grafana (metrics)
+  Elk stack (logging)
